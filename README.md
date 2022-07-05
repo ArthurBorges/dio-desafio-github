@@ -2,7 +2,7 @@
 Desafio de projeto sobre GitHub
 
 ## Desafio:
-
+Criar o primeiro repositório no GitHub.
 
 ## Comandos Básicos:  
 Passos para Clonar o repositório da nuvem para pasta local a partir do link https:  
