@@ -15,8 +15,8 @@ Passos para Clonar o repositório da nuvem para pasta local a partir do link htt
 >Acessar o repositorio no Git Bash:  
 >$cd dio-desafio-github/
 
-Comando para adicionar mudanças do projeto:
->$git add .
+Comando para adicionar mudanças no projeto:
+>$git add .  
 >$git commit -m "descrição das mudanças"
 
 Comando para atualizar as mudanças do projeto na nuvem:
