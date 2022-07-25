@@ -22,6 +22,9 @@ Comando para adicionar mudanças no projeto:
 Comando para atualizar as mudanças do projeto na nuvem:
 >$git push origin main
 
+Comando para atualizar as mudanças do projeto na máquina local:
+>$git pull origin main
+
 Comando para verificar o status do projeto:
 >$git status
 
